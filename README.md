@@ -68,3 +68,31 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# React-Todo-App
+Todo list app project using react hooks
+Here is the screenshot of the project.
+
+
+
+<h3>Functionalities:</h3>
+<ol>
+  <li> Add Todo by clicking add button</li>
+  <li> Add Todo by pressing Enter key</li>
+  <li> Delete Todo</li>
+ </ol>
+
+
+<!-- Steps for making the todo app -->
+ step 1-: First of all in vs code write in terminal npx create-react-app app-name
+ step 2-:go to the src folder and in the app.js remove the header section 
+ step 3-: Modify the app.js file by adding the heading, functionalities like add todo, remove todo , update todo 
+ step 4-: Use the react hooks like useState()
+ step 5-: style your app so that the user can see and interact with your app
+ step 6-: use of the redux in react 
+
+
+
+<!-- I have deploy this app on Netlify  -->
+You can see from this link : https://6621e170d349f46eb57bfbaf--heroic-malasada-4fc6a4.netlify.app/
